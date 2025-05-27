@@ -1,4 +1,4 @@
-[phishing_Email_report.txt](https://github.com/user-attachments/files/20462646/phishing_Email_report.txt)# Phishing sample email
+# Phishing sample email
 
 From: PayPal Support <support@secure-paypal.com>  
 To: user@example.com  
@@ -28,7 +28,7 @@ Free Online Header Analyzer (MxToolbox)
 
 # Report For Above Email
 
-
+[phishing_Email_report.txt](https://github.com/user-attachments/files/20462646/phishing_Email_report.txt)
 
 
 
