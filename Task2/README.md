@@ -18,12 +18,13 @@ PayPal Security Team
 
 Note: This is an automated message. Do not reply to this email.
 
-![Screenshot 2025-05-27 211006](https://github.com/user-attachments/assets/18ab9250-5180-4259-8e4f-29c175082399)
+![Screenshot 2025-05-27 211946](https://github.com/user-attachments/assets/c303e0e6-a0b1-4698-b039-5e65c85b13ae)
 
 
 # Tools Used
 
 Email Client / Saved Email (Text)
+
 Free Online Header Analyzer (MxToolbox)
 
 # Report For Above Email
