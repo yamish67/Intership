@@ -18,6 +18,8 @@ OpenVas
 
    ![Screenshot From 2025-05-29 10-25-23](https://github.com/user-attachments/assets/8faf1d2b-c6a6-460c-9259-fa8c82bef087)
 
-  
+# Report for the Vulnerability Scan from OpenVas
+
+
    
    
