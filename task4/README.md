@@ -33,5 +33,7 @@ Linux   - ufw
      Command Used - netsh advfirewall firewall delete rule name="Block Telnet
      ![Screenshot 2025-05-30 101842](https://github.com/user-attachments/assets/16a0445b-2521-4c2c-8efb-d891369b09d1)
 
+# Detailed Report for Firewall configuration
 
+[Task_4_Firewall_Report.pdf](https://github.com/user-attachments/files/20515372/Task_4_Firewall_Report.pdf)
 
