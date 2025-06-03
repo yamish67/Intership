@@ -1,0 +1,47 @@
+Phishing Indicators Identified
+Sender Email Address
+
+Email Used: support@secure-paypal.com
+
+Issue: Not an official PayPal domain (secure-paypal.com is suspicious).
+
+-> Indicator: Spoofed or deceptive sender domain.
+
+Email Header Discrepancies
+
+Tool Used: [MxToolbox Header Analyzer]
+
+Result: SPF and DKIM authentication FAILED
+
+-> Indicator: Failing security checks suggesting spoofing.
+
+Suspicious Link
+
+Visible Text: "Verify Your Account"
+
+Actual URL: http://bit.ly/paypal-verify
+
+Issue: Link is shortened and redirects, masking true destination.
+
+-> Indicator: Obfuscated link, potential malicious site.
+
+Urgent Language
+
+Phrases Detected: “Urgent,” “temporarily limited,” “24 hours,” “permanent suspension.”
+
+-> Indicator: Scare tactics and urgency to provoke immediate action.
+
+Mismatched URL
+
+Displayed: Legitimate-looking text
+
+Actual: Redirects to unrelated/shortened domain
+
+-> Indicator: Discrepancy between visible and real URL.
+
+Spelling/Grammar Issues
+
+Errors: Minor awkward phrasing, unnatural sentence structure.
+
+-> Indicator: Unprofessional tone typical of phishing.
+
