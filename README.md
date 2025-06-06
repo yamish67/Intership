@@ -8,5 +8,7 @@ nmap -sS <Local_Host_Ip> -oA scan.nmap
 ![Screenshot From 2025-05-26 21-11-44](https://github.com/user-attachments/assets/40f1a547-926c-49ab-b262-481f31a31326)
 
 80/tcp     http
+
 8000/tcp   http-alt
+
 8888/tcp   sun-answerbook
