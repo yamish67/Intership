@@ -31,9 +31,11 @@ This project is a secure file storage system that allows users to encrypt and de
    pip install cryptography
    ```
 
-3. Run the GUI:
+3. Run the GUI OR EXECUTABLE(.exe):
    ```bash
    python secure_file_storage_gui.py
+   
+   secure_file_storage_gui.exe  # for running .exe
    ```
 
 ## 💡 How It Works
@@ -44,4 +46,4 @@ This project is a secure file storage system that allows users to encrypt and de
 
 ## 📄 Report
 
-A 2-page project report is available in this repository: `Secure_File_Storage_Project_Report.pdf`
+A 2-page project report is available in this repository: `Secure_File_Storage_AES_Report.pdf`
