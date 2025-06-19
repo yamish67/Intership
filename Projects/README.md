@@ -22,8 +22,8 @@ This project is a secure file storage system that allows users to encrypt and de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yamish67/Intership/edit/main/Projects
-   cd secure-file-storage-aes
+   git clone https://github.com/yamish67/Intership/blob/main/Projects/
+   cd Projects
    ```
 
 2. Install dependencies:
