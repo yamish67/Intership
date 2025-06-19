@@ -22,5 +22,26 @@ This project is a secure file storage system that allows users to encrypt and de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/secure-file-storage-aes.git
+   git clone https://github.com/yamish67/Intership/edit/main/Projects
    cd secure-file-storage-aes
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install cryptography
+   ```
+
+3. Run the GUI:
+   ```bash
+   python secure_file_storage_gui.py
+   ```
+
+## 💡 How It Works
+
+1. **Encrypt File**: Select any file. It will be encrypted using a new AES key. A `.enc` file is created, and the key is saved as `key.key`.
+2. **Decrypt File**: Select the `.enc` file. The app uses the saved key to decrypt and checks file integrity using SHA-256.
+3. **Metadata**: Stored in `file_metadata.json` — includes filename, hash, and timestamp.
+
+## 📄 Report
+
+A 2-page project report is available in this repository: `Secure_File_Storage_Project_Report.pdf`
